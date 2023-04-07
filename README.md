@@ -1,0 +1,2 @@
+# public
+my studay pubilc
